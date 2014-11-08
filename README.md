@@ -1,4 +1,4 @@
-# Casper
+# Casper Child
 A Ghost-like WordPress theme
 
 Casper *(for WordPress)* is a simple yet beautiful theme for bloggers.
